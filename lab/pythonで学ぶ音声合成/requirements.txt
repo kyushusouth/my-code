@@ -1,3 +1,0 @@
-ttslearn
-streamlit
-stqdm

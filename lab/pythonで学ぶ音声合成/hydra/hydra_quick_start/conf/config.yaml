@@ -1,3 +1,0 @@
-params:
-  batch_size: 16
-  learning_rate: 0.01
